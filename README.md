@@ -1,1 +1,7 @@
-# web-site_parser
+# parser
+
+### Start app
+
+```sh
+npm run start
+```
