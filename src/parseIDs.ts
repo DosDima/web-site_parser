@@ -11,7 +11,7 @@ const delay = (miliseconds: number): Promise<void> =>
 export default async function parseIDs(type: string): Promise<boolean> {
   // Бренды техники (select value)
   let manufacturer: string[] = [
-    // "11",
+    "11",
     // "5",
     // "63",
     // "62",
